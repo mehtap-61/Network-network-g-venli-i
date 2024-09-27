@@ -1,10 +1,13 @@
 **VPN(Virtual Private Network= Sanal özel ağ)**
 
 ![VPN](https://github.com/user-attachments/assets/a3a88a72-b6c0-42da-b11d-41c88cd3dadc)
-Günümüzde internet kullanımı ile  her alanda daha fazla veri paylaşımı gerçekleşmektedir. Bu artan veri paylaşımı ile birlikte, internet kullanıcılarının özel bilgilerinin korunması konusu  önem kazanmaktadır. 
-Sanal Özel Ağ (VPN), bu veri korumasına cevap veren bir teknolojidir. İnternet bağlantısı üzerinden kullanıcıların özel verilerini koruyarak bir ağa bağlanmalarını sağlamaktadır. 
+Günümüzde internet kullanımı ile  her alanda daha fazla veri paylaşımı gerçekleşmektedir. Bu artan veri paylaşımı ile birlikte, internet kullanıcılarının özel bilgilerinin korunması konusu  önem kazanmaktadır. Sanal Özel Ağ (VPN), bu veri korumasına cevap veren bir teknolojidir. İnternet bağlantısı üzerinden kullanıcıların özel verilerini koruyarak bir ağa bağlanmalarını sağlamaktadır. 
+
 VPN teknolojisi, internet kullanıcılarının verilerini şifreleyerek, internet bağlantılarını güvenli hale getiren bir yapıya sahiptir.
+
 VPN, özellikle çevrimiçi işlemler (eğitim, satın alma, sistemizleme gibi) yapılırken kişisel verilerin korunması için önemli bir uygulama olarak düşünülmektedir. 
+
+![VPN-2](https://github.com/user-attachments/assets/76c6305d-7fef-4e76-80ef-b4228093f14a)
 
 *VPN türleri*
 
