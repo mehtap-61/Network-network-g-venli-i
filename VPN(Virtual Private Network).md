@@ -33,8 +33,8 @@ Kullanıcılara internete bağlandıkları her yerden güvenli bir şekilde şir
 
 **VPN kullanım amaçları**
 
--Gizlilik ve güvenlik
--Sınırlı içeriğe erişim
--Şirket İçi İnternet Erişimi
--Halka Açık Wi-Fi Ağlarında Koruma
--Çevrimiçi Alışveriş Güvenliği
+-Gizlilik ve güvenlik <br/>
+-Sınırlı içeriğe erişim <br/>
+-Şirket İçi İnternet Erişimi  <br/>
+-Halka Açık Wi-Fi Ağlarında Koruma    <br/>
+-Çevrimiçi Alışveriş Güvenliği   <br/>
