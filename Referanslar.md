@@ -15,3 +15,5 @@ https://metatime.com/tr/blog/esler-arasi-peer-to-peer-p2p-kavrami-nedir-ve-nasil
 https://corecasys.com/pdf/vpn_basic.pdf
 
 https://web.cs.hacettepe.edu.tr/~abc/teaching/bbg632/slides/NetSec.pdf
+
+https://jodies.de/ipcalc?host=156.23.19.145&mask1=27&mask2=
