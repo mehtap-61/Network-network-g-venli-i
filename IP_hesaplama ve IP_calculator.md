@@ -1,4 +1,4 @@
-**IP Calculator(IP hesaplayıcısı)**
+**IP adresi hesaplama ve IP Calculator (IP hesaplayıcısı)**
 
 Ip adresi hesaplama , Subnetting , VLSM gibi tanımlamalar sıklıkla karşımıza çıkar.
 Bir IP hesaplayıcısı, alt ağ maskesi, ağ adresi, yayın adresi ve kullanılabilir IP adresleri aralığı dahil olmak üzere bir IP adresinin çeşitli yönlerini belirlemenize yardımcı olabilir.
