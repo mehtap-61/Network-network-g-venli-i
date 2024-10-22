@@ -217,8 +217,16 @@ Bu, tutarsızlık sorunlarını çözdü. Daha sonra OSI modeli de Uluslararası
 
 **Görev 5- Network tool-ping**
 
-Bu aşamada, umarım tüm teori mantıklı gelmiştir ve artık bilgisayar ağlarının ardındaki temel modelleri anlamışsınızdır. Odanın geri kalanında, pratik uygulamalarda kullanabileceğimiz bazı komut satırı ağ araçlarına bakacağız. Bu araçların çoğu diğer işletim sistemlerinde de çalışır, ancak basitlik adına, bu odanın geri kalanında Linux kullandığınızı varsayacağım. İnceleyeceğimiz ilk araç ping komutu olacak.
-ping komutu, uzak bir kaynağa bağlantının mümkün olup olmadığını test etmek istediğimizde kullanılır. Genellikle bu, internetteki bir web sitesi olacaktır, ancak doğru şekilde yapılandırılıp yapılandırılmadığını kontrol etmek istiyorsanız ev ağınızdaki bir bilgisayar için de olabilir. Ping, daha önce bahsedilen biraz daha az bilinen TCP/IP protokollerinden biri olan ICMP protokolünü kullanarak çalışır. ICMP protokolü, OSI Modelinin Ağ katmanında ve dolayısıyla TCP/IP modelinin İnternet katmanında çalışır. Ping için temel sözdizimi ping <hedef>'tir. Bu örnekte, Google'a bir ağ bağlantısının mümkün olup olmadığını test etmek için ping kullanıyoruz:
+Bu aşamada, umarım tüm teori mantıklı gelmiştir ve artık bilgisayar ağlarının ardındaki temel modelleri anlamışsınızdır.
+Odanın geri kalanında, pratik uygulamalarda kullanabileceğimiz bazı komut satırı ağ araçlarına bakacağız.
+Bu araçların çoğu diğer işletim sistemlerinde de çalışır, ancak basitlik adına, bu odanın geri kalanında Linux kullandığınızı varsayacağım. 
+İnceleyeceğimiz ilk araç ping komutu olacak.
+ping komutu, uzak bir kaynağa bağlantının mümkün olup olmadığını test etmek istediğimizde kullanılır. 
+Genellikle bu, internetteki bir web sitesi olacaktır, ancak doğru şekilde yapılandırılıp yapılandırılmadığını kontrol etmek istiyorsanız ev ağınızdaki bir bilgisayar için de olabilir.
+Ping, daha önce bahsedilen biraz daha az bilinen TCP/IP protokollerinden biri olan ICMP protokolünü kullanarak çalışır. 
+ICMP protokolü, OSI Modelinin Ağ katmanında ve dolayısıyla TCP/IP modelinin İnternet katmanında çalışır.
+Ping için temel sözdizimi ping <hedef>'tir.
+Bu örnekte, Google'a bir ağ bağlantısının mümkün olup olmadığını test etmek için ping kullanıyoruz:
 
 ![ping](https://github.com/user-attachments/assets/bbe22da2-834e-4111-b8cb-3cc523f5cb88)
 
